@@ -93,6 +93,11 @@ https://code.tutsplus.com/tutorials/mastering-angularjs-directives--cms-22511 <b
 http://busypeoples.github.io/post/thinking-in-components-angular-js/ <br>
 https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md <br>
 
+
+Angular 7
+===============
+CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API  <br>
+
 JavaScript:
 ==============
 https://www.thatjsdude.com/jsConcepts/concepts/array.html
